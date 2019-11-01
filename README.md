@@ -25,4 +25,4 @@ Para esse projeto foi adotado o metódo de estilização `Css Modules`, que cons
 ### `Visão Geral`
 ![visao_geral](https://user-images.githubusercontent.com/51265303/68032007-88659580-fc9b-11e9-977e-0ff31acbacec.gif)
 <br/><br/><br/><br/>
-<p align="center">**by Lucas R. Domingues**</p>
+<p align="center"><b>by Lucas R. Domingues</b></p>
