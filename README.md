@@ -7,10 +7,13 @@ No diretório do projeto, você pode executar:
 ### `npm start`
 
 Execute o aplicativo no modo de desenvolvimento. <br />
-Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
 A página será recarregada se você fizer edições. <br />
 Será possível visualizar os erros no console.
+
+
+![demo](https://user-images.githubusercontent.com/51265303/68026008-1dad5d80-fc8d-11e9-9495-79dbde33b2bd.gif)
 
 ### `npm test`
 
