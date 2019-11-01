@@ -1,4 +1,4 @@
-Este projeto foi iniciado com o [Create React App] (https://github.com/facebook/create-react-app).
+Esse projeto apresenta de forma simples a utilização de componentes ReactJS.
 
 ## Scripts disponíveis
 
@@ -12,12 +12,16 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 A página será recarregada se você fizer edições. <br />
 Será possível visualizar os erros no console.
 
+### `ReactJS e API`
+
+O componente 'Books' está consumindo a seguinte API:<br/>
+[https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
+
 ### `Componente 'Curtir'`
 
-Demonstração do componente 'Curtir'.<br />
-Ao clicar na imagem o contador irá incrementar.
-
+Ao clicar no ícone da "mãozinha" o contador irá incrementar.<br />
 ![demo](https://user-images.githubusercontent.com/51265303/68026008-1dad5d80-fc8d-11e9-9495-79dbde33b2bd.gif)
+
 
 ### `npm run build`
 
