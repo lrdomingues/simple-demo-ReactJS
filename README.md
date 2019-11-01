@@ -4,15 +4,14 @@ Esse projeto apresenta de forma simples a utilização de componentes ReactJS.
 No diretório do projeto, você pode executar:
 
 ### `npm start`
-Execute o aplicativo no modo de desenvolvimento. <br />
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
-A página será recarregada se você fizer edições. Será possível visualizar os erros no console.
-
+Execute o aplicativo no modo de desenvolvimento.<br />
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/>
+A página será recarregada se você fizer edições.<br/>
+Será possível visualizar os erros no console.<br/>
 
 ### `ReactJS e API`
 O componente 'Books' está consumindo a seguinte API:<br/>
-[https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
-
+[https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)<br/>
 
 ### `Componente 'Curtir'`
 Ao clicar no ícone da "mãozinha" o contador irá incrementar.<br />
