@@ -24,5 +24,5 @@ Para esse projeto foi adotado o metódo de estilização `Css Modules`, que cons
 
 ### `Visão Geral`
 ![visao_geral](https://user-images.githubusercontent.com/51265303/68032007-88659580-fc9b-11e9-977e-0ff31acbacec.gif)
-
-**by Lucas R. Domingues**
+<br/><br/>
+                                                by Lucas R. Domingues
