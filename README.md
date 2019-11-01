@@ -12,6 +12,8 @@ Será possível visualizar os erros no console.<br/><br/>
 ### `ReactJS e API`
 O componente 'Books' está consumindo a seguinte API:<br/>
 [https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
+<br/>
+![image](https://user-images.githubusercontent.com/51265303/68030767-007e8c00-fc99-11e9-87fc-b7d7d039834d.png)
 <br/><br/>
 
 ### `Componente 'Curtir'`
