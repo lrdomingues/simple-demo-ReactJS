@@ -12,7 +12,7 @@ Será possível visualizar os erros no console.<br/><br/>
 ### `ReactJS e API`
 O componente 'Books' está consumindo a seguinte API:<br/>
 [https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
-<br/><br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/51265303/68031249-07f26500-fc9a-11e9-9336-4dda504a83c8.png)
 <br/><br/>
 
