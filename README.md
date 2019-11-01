@@ -8,7 +8,7 @@ Execute o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/><br/>
 
 ### `ReactJS e API`
-O componente 'Books' está consumindo a seguinte API:<br/>
+O componente 'Books' faz o consumo da seguinte API:<br/>
 [https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
 <br/>
 ![image](https://user-images.githubusercontent.com/51265303/68031249-07f26500-fc9a-11e9-9336-4dda504a83c8.png)
