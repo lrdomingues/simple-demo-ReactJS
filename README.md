@@ -19,14 +19,8 @@ Ao clicar no ícone da "mãozinha" o contador irá incrementar.<br />
 ![demo](https://user-images.githubusercontent.com/51265303/68026008-1dad5d80-fc8d-11e9-9495-79dbde33b2bd.gif)
 <br/><br/>
 
-### `CSS`
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `CSS Modules`
+Para esse projeto foi adotado o metódo de estilização `Css Modules`, que consiste em trabalhar com um arquivo de CSS no qual todas os nomes de classes e nomes de animações estão no escopo local, por default.<br/><br/>
 
 ### `npm run eject`
 
