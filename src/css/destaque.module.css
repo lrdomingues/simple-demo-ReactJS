@@ -1,0 +1,32 @@
+@media screen and (min-width: 1200px){
+    .h2{
+        margin-top: 2vw;
+        margin-bottom: 2vw;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        font-style: italic;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: #7e8696;
+        font-weight: normal;
+        font-size: 24px;
+    }
+
+    blockquote::before {
+        content: "\201C";
+        font-family: 'Times New Roman', Times, serif;
+        color: orange;
+        font-size: 60px;
+        line-height:0px;
+        vertical-align:text-top;
+    }
+
+    blockquote::after {
+        content: "\201C";
+        font-family: 'Times New Roman', Times, serif;
+        color: orange;
+        font-size: 60px;
+        line-height:0px;
+        vertical-align:text-bottom;    
+    }
+}

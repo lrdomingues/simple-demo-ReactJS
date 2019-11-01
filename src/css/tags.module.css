@@ -1,0 +1,27 @@
+@media screen and (min-width: 1200px){
+    .tags{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 15%;
+    }
+
+    .wrapper{
+        color: orange;
+        text-decoration: none;
+
+        border-width: 1.7px;
+        border-color:orange;
+        border-style:solid;
+        border-radius: 16px;
+        padding: 1.5%;
+
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .b{
+        margin-top: 2%;
+        font-size: 13px;
+        font-weight: bold;
+    }
+}

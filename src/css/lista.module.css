@@ -1,0 +1,38 @@
+@media screen and (min-width: 1200px){
+    .div{
+        margin-left: 70px;
+        margin-top: 20px;
+        text-align: justify;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #7e8696;
+        line-height: 2vw;
+        font-size: 15px;
+        font-weight: normal;
+        
+    }
+
+    .ul {
+        list-style: none;
+    }
+
+    ol {
+        list-style: none; 
+        counter-reset: li
+    }
+
+    li::before {
+        content: counter(li) "."; 
+        color: orange;
+        display: inline-block; 
+        width: 1em;
+        margin-left: -1.5em;
+        margin-right: 0.5em; 
+        text-align: right; 
+        direction: ltr;
+        font-weight: bold;
+    }
+
+    li {
+        counter-increment: li
+    }
+}   

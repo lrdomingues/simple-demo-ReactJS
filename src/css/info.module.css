@@ -1,0 +1,32 @@
+@media screen and (min-width: 1200px){
+    .div{
+        text-align: center;
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 900;
+    }
+
+    .img{
+        width: 14px;
+    }
+
+    .wrapper{
+        vertical-align: 3.5px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 1199px){
+    .div{
+        text-align: center;
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .img{
+        width: 12px;
+    }
+
+    .wrapper{
+        vertical-align: 3.5px;
+    }    
+}
