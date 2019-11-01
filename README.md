@@ -7,11 +7,12 @@ No diretório do projeto, você pode executar:
 Execute o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/>
 A página será recarregada se você fizer edições.<br/>
-Será possível visualizar os erros no console.<br/>
+Será possível visualizar os erros no console.<br/><br/>
 
 ### `ReactJS e API`
 O componente 'Books' está consumindo a seguinte API:<br/>
-[https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)<br/>
+[https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
+<br/><br/>
 
 ### `Componente 'Curtir'`
 Ao clicar no ícone da "mãozinha" o contador irá incrementar.<br />
