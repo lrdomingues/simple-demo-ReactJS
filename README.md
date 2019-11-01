@@ -13,7 +13,7 @@ Será possível visualizar os erros no console.<br/><br/>
 O componente 'Books' está consumindo a seguinte API:<br/>
 [https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER](https://www.googleapis.com/books/v1/volumes?q=HARRY%20POTTER)
 <br/><br/>
-![image](https://user-images.githubusercontent.com/51265303/68030767-007e8c00-fc99-11e9-87fc-b7d7d039834d.png)
+![image](https://user-images.githubusercontent.com/51265303/68031249-07f26500-fc9a-11e9-9336-4dda504a83c8.png)
 <br/><br/>
 
 ### `Componente 'Curtir'`
