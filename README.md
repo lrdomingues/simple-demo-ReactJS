@@ -5,9 +5,7 @@ No diretório do projeto, você pode executar:
 
 ### `npm start`
 Execute o aplicativo no modo de desenvolvimento.<br />
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/>
-A página será recarregada se você fizer edições.<br/>
-Será possível visualizar os erros no console.<br/><br/>
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.<br/><br/>
 
 ### `ReactJS e API`
 O componente 'Books' está consumindo a seguinte API:<br/>
