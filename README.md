@@ -23,7 +23,6 @@ Ao clicar no ícone da "mãozinha" o contador irá incrementar.<br />
 Para esse projeto foi adotado o metódo de estilização `Css Modules`, que consiste em trabalhar com um arquivo de CSS no qual todas os nomes de classes e nomes de animações estão no escopo local, por default.<br/><br/>
 
 ### `Visão Geral`
-<br/>
 ![visao_geral](https://user-images.githubusercontent.com/51265303/68032007-88659580-fc9b-11e9-977e-0ff31acbacec.gif)
 
 **by Lucas R. Domingues**
