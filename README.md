@@ -12,13 +12,12 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 A página será recarregada se você fizer edições. <br />
 Será possível visualizar os erros no console.
 
+### `Componente 'Curtir'`
+
+Demonstração do componente 'Curtir'.<br />
+Ao clicar na imagem o contador irá incrementar.
 
 ![demo](https://user-images.githubusercontent.com/51265303/68026008-1dad5d80-fc8d-11e9-9495-79dbde33b2bd.gif)
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
